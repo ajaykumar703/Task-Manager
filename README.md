@@ -35,6 +35,16 @@ To get this project running on your local machine, follow these steps:
 3. **Updating a Task:** Tap on a task in the list to edit its details.
 4. **Deleting a Task:** Swipe left or right on a task to delete it.
 
+## Screenshots
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d146773b-11d1-495a-9733-3660f1988930" width="200" />
+  <img src="https://github.com/user-attachments/assets/78d02051-a36e-4006-92fb-f05d1767aa0d" width="200" />
+  <img src="https://github.com/user-attachments/assets/368d8521-e958-4266-b963-58bbffb5cad5" width="200" />
+  <img src="https://github.com/user-attachments/assets/75102e4e-e495-438d-a2ed-e386d031ec22" width="200" />
+</p>
+
+
+
 
 
 ## Acknowledgments
