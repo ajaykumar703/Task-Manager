@@ -23,7 +23,7 @@ To get this project running on your local machine, follow these steps:
 
 ### Installation
 
-1. Clone this repository to your local machine:  
+1. Clone this repository to your local machine: https://github.com/ajaykumar703/Task-Manager.git
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or a physical device.
 
@@ -34,17 +34,7 @@ To get this project running on your local machine, follow these steps:
 3. **Updating a Task:** Tap on a task in the list to edit its details.
 4. **Deleting a Task:** Swipe left or right on a task to delete it.
 
-## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m "Add your feature"`
-4. Push your changes to your branch: `git push origin feature/your-feature-name`
-5. Create a pull request.
-
-.
 
 ## Acknowledgments
 
