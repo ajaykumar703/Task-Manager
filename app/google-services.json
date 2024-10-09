@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26293412507",
+    "project_id": "sdmw-b8946",
+    "storage_bucket": "sdmw-b8946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26293412507:android:c74459576d7185ae129c3e",
+        "android_client_info": {
+          "package_name": "com.example.sdmw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW2iG4zKb5ijygbmqyaNYiPZ_DF8hXmv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
