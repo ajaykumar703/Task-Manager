@@ -9,6 +9,7 @@ A simple mobile app built with Kotlin for Android that helps you manage your dai
     * View a list of all your tasks.
     * Update existing task details.
     * Delete tasks you no longer need.
+    * Check box for monitoring comopletion of task
 * **Data Persistence:**
     * Task data is stored locally using a database (e.g., Room Persistence Library). This ensures your tasks are saved even when the app is closed.
 
